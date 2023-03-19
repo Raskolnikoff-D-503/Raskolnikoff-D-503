@@ -3,9 +3,9 @@
 
 - 📫 How to reach me: gaagevgenii@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/Raskolnikoff-D-503ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Raskolnikoff-D-503&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Raskolnikoff-D-503)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Raskolnikoff-D-503&theme=onedark-duo)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Raskolnikoff-D-503)
 
