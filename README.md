@@ -1,6 +1,7 @@
 <h1 align="center">𝗛𝗶 𝘁𝗵𝗲𝗿𝗲, 𝗜'𝗺 𝗘𝘃𝗴𝗲𝗻𝘆 𝗚𝗮𝗮𝗴</h1>
 <h3 align="center">𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</h3>
 
+- 💬 Ask me about JavaScript, TypeScript, React
 - 📫 How to reach me: gaagevgenii@gmail.com
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raskolnikoff-D-503&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
