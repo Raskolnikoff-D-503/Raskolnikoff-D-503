@@ -3,7 +3,6 @@
 
 - 💬 Ask me about JavaScript, TypeScript, React
 - 📫 How to reach me: gaagevgenii@gmail.com
-- 🔭 I’m currently working on a module that renders a list of widgets in a drag and drop container
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Raskolnikoff-D-503&rank=-C&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 
