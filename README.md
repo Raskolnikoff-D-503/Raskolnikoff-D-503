@@ -22,7 +22,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Raskolnikoff-D-503&theme=onedark-duo)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=Raskolnikoff-D-503)
+![Profile Views](https://komarev.com/ghpvc/?username=Raskolnikoff-D-503)
 
 <!-- ### Hi there 👋 -->
 
