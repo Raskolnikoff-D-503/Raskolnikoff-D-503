@@ -4,7 +4,7 @@
 - 💬 Ask me about JavaScript, TypeScript, React
 - 📫 How to reach me: gaagevgenii@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Raskolnikoff-D-503&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Raskolnikoff-D-503&rank=-C&theme=alduin)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3>🧰 Languages and Tools</h3>
 <p>
